@@ -7,12 +7,12 @@
       "size": { "value": 3 },
       "line_linked": {
         "enable": true,
-        "distance": 150,
+        "distance": 200,
         "color": "#888",
         "opacity": 0.4,
         "width": 1
       },
-      "move": { "enable": true, "speed": 2 }
+      "move": { "enable": true, "speed": 1 }
     },
     "interactivity": {
       "events": {
